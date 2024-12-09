@@ -1,4 +1,4 @@
-FROM alpine:3.19
+FROM alpine:3.21
 LABEL maintainer="Nho Luong <luongutnho@hotmail.com>"
 RUN apk --no-cache add \
     bash \
