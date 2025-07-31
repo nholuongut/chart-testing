@@ -218,7 +218,7 @@ Compare [v1 usage](https://github.com/nholuongut/chart-testing/tree/release-v1#u
 * [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
